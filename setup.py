@@ -8,3 +8,4 @@ setup(
     author='Patrick Canny',
     license='MIT',
 )
+#test
